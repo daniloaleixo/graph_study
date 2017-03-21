@@ -1,4 +1,4 @@
-# graph_study
+# Estudo de grafos
 
 ## Introdução
 Projeto realizado para a matéria de Estrutura de Dados - Desenvolver alguns algoritmos básicos de grafos.
